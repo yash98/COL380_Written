@@ -1,3 +1,6 @@
+*.docx binary
+*.odt binary
+*.pdf binary
 *.docx diff=docx
 *.odt diff=odt
 *.pdf diff=pdf
